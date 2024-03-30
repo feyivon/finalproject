@@ -73,7 +73,7 @@ ROOT_URLCONF = 'commerce.urls'
 
 CORS_ALLOWED_ORIGINS=[
       'http://localhost:3000',
-      'http://domain.com'r
+      'http://domain.com'
 ]
 
 # CORS_ALLOWED_ORIGINS=True
